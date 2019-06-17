@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home/student/cst107/public_html/ePortfolio/Protected/.htpasswd
+require valid-user
